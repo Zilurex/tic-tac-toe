@@ -1,5 +1,3 @@
-# y
-
 > Vue.js 2.0 tic-tac-toe implementation
 
 ## Build Setup
